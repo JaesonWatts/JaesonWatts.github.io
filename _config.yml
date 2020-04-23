@@ -1,0 +1,20 @@
+# Site settings
+author: Jaeson Watts
+title: 
+header-img: img/home-bg.png
+email: jaeson.watts@gmail.com
+copyright_name: Jaeson Watts
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Illender
+github_username:  JaesonWatts
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
