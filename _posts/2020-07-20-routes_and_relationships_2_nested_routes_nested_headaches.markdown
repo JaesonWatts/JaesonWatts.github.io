@@ -22,7 +22,7 @@ When we have models that are natural children of another model it works well for
 But wait there’s more!  What if I told you that when we make new instances of a model this nested relationship allows us to define that relationship right there in the form?  Well buckle up because I’m about to! 
 
 When we have our forms call upon that nested route it allows us to use neat little helpers like collection_select, which will give us a dropdown menu of all the parent instances, and collections_check_boxes, which gives us relational options similar to the previous helper but with check boxes instead. This allows us to create the parent-child relationship with ease in the creation phase. Making things easier is what all this coding is all about after all, isn’t it?
-<img src="https://imgur.com/2N9HOTP" alt="collection_select on the form" width="70%">
+<img src="https://imgur.com/2N9HOTP" alt="collection_select" width="70%">
 
 
 
