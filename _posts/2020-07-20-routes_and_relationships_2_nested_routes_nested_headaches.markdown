@@ -33,7 +33,7 @@ The real key in the end is to not get hung up on how complicated it looks, but t
 Before I leave I want to drop one more bit of knowledge your way.  My favorite way of debugging is to drop in my code this little ditty:
 
 
-<code><% raise params.inspect%> </code>
+<blockquote><% raise params.inspect%> </blockquote>
 
 It is very much like a binding.pry or a byebug in that it creates a terminal instance, but in this case it creates it right in the browser view along with a whole lot of useful debugging information for you to use. When you are done, delete the code, refresh the page, and carry on with your day, richer for the knowledge!  There are other things you can raise, I challenge you to stretch and investigate the other raises one can make. 
 
