@@ -26,11 +26,10 @@ When we have our forms call upon that nested route it allows us to use neat litt
 
 
 
-Nested resources secret power is in the passing of params from place to place. Specifically the :parent_id in the case of my app, the Cub Scout Manager, which is the param I need to keep around as we go from view to view, through our routes and controllers, in order to maintain that relationship from the showing of our instance to creating a new one.
-
+A nested resource's secret power is in the passing of params from place to place. Specifically the :pack_id in the case of my app, the Cub Scout Manager, which is the param I need to keep around as we go from view to view, through our routes and controllers, in order to maintain that relationship from the showing of our instance to creating a new one.
 The real key in the end is to not get hung up on how complicated it looks, but to start trying it out in your code, breaking things and fixing them, until you have the results you want. In the end you will find out that it’s a bit simpler under the hood.
 
-Before I leave I want to drop one more bit of knowledge your way.  My favorite way of debugging is to drop in my code this little ditty:
+Before I leave I want to drop one more bit of knowledge your way.  My favorite way of debugging is to drop this little ditty  in my code in the view, any view, pick a view:
 
 
 <blockquote><% raise params.inspect%> </blockquote>
