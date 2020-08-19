@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Postgres Potter and the Chamber of SQLs"
-date:       2020-08-19 00:49:24 +0000
+date:       2020-08-18 20:49:25 -0400
 permalink:  postgres_potter_and_the_chamber_of_sqls
 ---
 
@@ -38,7 +38,7 @@ With PostgreSQL you’ll find everything you need in a database. With native JSO
 
 I’ve just touched the tip of the iceberg here, and I don’t know about you but the idea of such magic out there makes me want to become a wizard, casting SQL queries like a flurry of spells, weaving the web of data to support my applications.  
 
-<img src="https://i.imgur.com/iQZ5qJs.jpg" width="80%"/>
+<img src="https://i.imgur.com/RpWcf0q.jpg" width="80%"/>
 
 That’s all I have for now, stay safe and keep coding!
 
