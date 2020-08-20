@@ -8,7 +8,7 @@ permalink:  postgres_potter_and_the_chamber_of_sqls
 
 
 
-When I was a kid in the mid 80's my mom worked at this big corporation in a skyscraper downtown chicago. There was a programmer there called a Wizard who I would annoy on Saturdays. My mom worked and I ran amok in the mostly empty Equitable Building.  "If you want to be a shot caller in my world, be a DBA kid, don't be a programmer like me."
+When I was a kid in the mid 80's my mom worked at this big corporation in a skyscraper downtown Chicago. There was a programmer there called a Wizard who I would annoy on Saturdays. My mom worked and I ran amok in the mostly empty Equitable Building.  "If you want to be a shot caller in my world, be a DBA kid, don't be a programmer like me."
 
 I had no idea what those words meant then but I think i know now. The culture in the 80's was such that a programmer went to the database admin and said "I'm doing this" and the dba made the decision about what database to use and schema and that was where the decision making process was. These days however it's a different atmosphere and programmers are making more decisions than ever, and one of those decisions that many are making is to use PostgreSQL.
 
