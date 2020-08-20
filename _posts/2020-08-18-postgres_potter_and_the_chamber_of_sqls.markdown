@@ -14,7 +14,7 @@ I had no idea what those words meant then but I think i know now. The culture in
 
 <img src="https://i.imgur.com/1XxOio5.png" width="80%"/>
 
-The child of James and  Potter, a young Postgres became the chosen one when he-who-shall-not-be-named.....I’m just kidding, it's not that dramatic. He shall be named and his name was Michael Stonebraker. He had led the team for the predecessor to Postgres(see the pattern?) and started working on the post- database in 1985. Postgres was born and would be called so until the late 90's when it was renamed PostgreSQL.
+The child of James and  Ingres Potter, a young Postgres became the chosen one when he-who-shall-not-be-named.....I’m just kidding, it's not that dramatic. He shall be named and his name was Michael Stonebraker. He had led the team for, Ingres, the predecessor to Postgres(see the pattern?) and started working on the post-Ingres database in 1985. Postgres was born and would be called so until the late 90's when it was renamed PostgreSQL.
 
 Everyone talks about the magic of Rails, Ruby, and ActiveRecord, but they are only half right. Rails is like that magic object, imbued with spells and effects you can invoke with a few simple commands "rails g expelliarmus!" and suddenly a bunch of things are moving about. ActiveRecord literally writes spells—SQL queries—for you. But if these are the magic items then surely PostgreSQL is a different type of magic, a deeper, more ancient magic, the kind that once you learn it it will enhance all your Rails magic 10 fold! 
 
