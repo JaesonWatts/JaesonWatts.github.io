@@ -12,8 +12,8 @@ First we need to cover some basics.  This blog will assume that you have at leas
 
 You are hungry, so you decide to head to the diner to get some food. You roll up,head inside, and get seated by the waitress. After time to look at the menu she comes and takes your order on her ticket, which she then takes to the counter where she hangs it and the cook makes it and sends it back. You might not realize it yet but this is the same flow as a react-redux application. 
 
-
-<img src=”https://i.imgur.com/eklPPo0.png” alt=”digital-diner” width=”50%>
+![](http://)
+<img src=https://i.imgur.com/eklPPo0.png alt=”digital-diner” width=”50%>
 
 Allow me to explain.
 
