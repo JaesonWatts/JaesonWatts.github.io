@@ -30,7 +30,7 @@ The diner represents our application, and we are, well, us, the user. We go insi
 ![](https://i.imgur.com/o2InGFS.png)
 
 
-She took our order and left us with a coaster and a cup of water and placed the ticket on the order window of the kitchen. The kitchen in our backend api, the order window counter is our store. 
+She took our order and left us with a coaster and a cup of water and placed the ticket on the order window of the kitchen. The kitchen is our backend api, the order window counter is our store. 
 
 ![](https://i.imgur.com/puLr5Uw.png)
 
