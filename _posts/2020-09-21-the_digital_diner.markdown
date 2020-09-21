@@ -27,7 +27,7 @@ The diner represents our application, and we are, well, us, the user. We go insi
 
 
 “I would like the breakfast special plate” we say, as the waitress scribbles on her pad.  She’s the reducer, here to turn our created action, BUY_SPECIAL, into reality for us.  
-![]https://i.imgur.com/o2InGFS.png)
+![](https://i.imgur.com/o2InGFS.png)
 
 
 She took our order and left us with a coaster and a cup of water and placed the ticket on the order window of the kitchen. The kitchen in our backend api, the order window counter is our store. 
