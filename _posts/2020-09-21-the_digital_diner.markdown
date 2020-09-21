@@ -47,3 +47,5 @@ The waitress comes back over and serves it up to us at the table(renders the dat
 What a meal, eh? 
 I hope this little story about a tiny diner has helped you understand a little bit more about how React, Redux, and JavaScript asynchronous promises work together to create a full featured application.
 
+*Credit to my oldest, Citizen 3, for her wonderful artwork!*
+
