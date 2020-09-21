@@ -13,7 +13,7 @@ First we need to cover some basics.  This blog will assume that you have at leas
 You are hungry, so you decide to head to the diner to get some food. You roll up,head inside, and get seated by the waitress. After time to look at the menu she comes and takes your order on her ticket, which she then takes to the counter where she hangs it and the cook makes it and sends it back. You might not realize it yet but this is the same flow as a react-redux application. 
 
 
-<img src=https://i.imgur.com/eklPPo0.png alt=”digital-diner” width=”50% height="50%">
+<img src='https://i.imgur.com/eklPPo0.png' alt=”digital-diner” width=”50% height="50%"/>
 
 Allow me to explain.
 
@@ -27,16 +27,16 @@ The diner represents our application, and we are, well, us, the user. We go insi
 
 “I would like the breakfast special plate” we say, as the waitress scribbles on her pad.  She’s the reducer, here to turn our created action, BUY_SPECIAL, into reality for us.  
 
-<img src=https://i.imgur.com/o2InGFS.png alt=”take-my-order” width=”50% height="50%">
+<img src='https://i.imgur.com/o2InGFS.png' alt=”take-my-order” width=”50% height="50%"/>
 
 She took our order and left us with a coaster and a cup of water and placed the ticket on the order window of the kitchen. The kitchen in our backend api, the order window counter is our store. 
-<img src=https://i.imgur.com/puLr5Uw.png alt=”order-counter” width=”50% height="50%">
+<img src='https://i.imgur.com/puLr5Uw.png' alt=”order-counter” width=”50% height="50%"/>
 
  The coaster and water on our table is the promise on the front end “I have your order, and as soon as it’s ready I will bring it to you!” and the ticket is the fetch request “hey can I have this food?” which in our application is our data, right, because we are consuming it.  
-<img src=https://i.imgur.com/CjqnkCq.png alt=”diner-ticket” width=”50% height="50%">
+<img src='https://i.imgur.com/CjqnkCq.png' alt=”diner-ticket” width=”50% height="50%">
 Soon our food is done, the cook has put the plate on the order window counter(the api has returned our data to the store) and we are ready to have that food delivered to our table (data dispatched to our User Interface).  
 
-<img src=https://i.imgur.com/SLwdiM9.png alt=”plate-of-data” width=”50% height="50%" >
+<img src='https://i.imgur.com/SLwdiM9.png' alt=”plate-of-data” width=”50% height="50%"/ >
 
 The waitress comes back over and serves it up to us at the table(renders the data from the store into the dom).
 What a meal, eh? 
