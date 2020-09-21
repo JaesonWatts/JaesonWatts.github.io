@@ -27,17 +27,21 @@ The diner represents our application, and we are, well, us, the user. We go insi
 
 
 “I would like the breakfast special plate” we say, as the waitress scribbles on her pad.  She’s the reducer, here to turn our created action, BUY_SPECIAL, into reality for us.  
+![]https://i.imgur.com/o2InGFS.png)
 
-<img src='https://i.imgur.com/o2InGFS.png' alt=”take-my-order” width=”50% height="50%"/>
 
 She took our order and left us with a coaster and a cup of water and placed the ticket on the order window of the kitchen. The kitchen in our backend api, the order window counter is our store. 
-<img src='https://i.imgur.com/puLr5Uw.png' alt=”order-counter” width=”50% height="50%"/>
+
+![](https://i.imgur.com/puLr5Uw.png)
+
 
  The coaster and water on our table is the promise on the front end “I have your order, and as soon as it’s ready I will bring it to you!” and the ticket is the fetch request “hey can I have this food?” which in our application is our data, right, because we are consuming it.  
-<img src='https://i.imgur.com/CjqnkCq.png' alt=”diner-ticket” width=”50% height="50%">
+ 
+ ![](https://i.imgur.com/CjqnkCq.png)
+
 Soon our food is done, the cook has put the plate on the order window counter(the api has returned our data to the store) and we are ready to have that food delivered to our table (data dispatched to our User Interface).  
 
-<img src='https://i.imgur.com/SLwdiM9.png' alt=”plate-of-data” width=”50% height="50%"/ >
+![](https://i.imgur.com/SLwdiM9.png)
 
 The waitress comes back over and serves it up to us at the table(renders the data from the store into the dom).
 What a meal, eh? 
