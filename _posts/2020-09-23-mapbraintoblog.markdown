@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "mapBrainToBlog"
-date:       2020-09-23 17:01:06 +0000
+date:       2020-09-23 13:01:06 -0400
 permalink:  mapbraintoblog
 ---
 
@@ -9,9 +9,9 @@ permalink:  mapbraintoblog
 You’re learning React / Redux, and you just learned about mapStateToProps() and mapDispatchToProps() and now you think you might have an aneurysm because WHOA WHAT???
 I know the feeling and I’m here to “connect()()” the dots!
 
-When you have an application built with react /redux you have access to this thing called the Global Store, and that store has a “state”, which is literally just that, it’s current state.  We can’t change the state directly, we can only make a new state and replace the old one, filing it away like an old lithograph, a static slice of the past. But the important thing about this is how we access this state in our applications and how the state becomes a property.
+When you have an application built with React / Redux you have access to this thing called the Global Store, and that store has a “state”, which is literally just that, it’s current state.  We can’t change the state directly, we can only make a new state and replace the old one, filing it away like an old lithograph, a static slice of the past. But the important thing about this is how we access this state in our applications and how the state becomes a property.
 
-First we need to look at the connect()() function to understand mapStateToPRops and mapDispatchToProps.  Connect is what allows us to access state and make it useful.
+First we need to look at the connect()() function to understand mapStateToProps and mapDispatchToProps.  Connect is what allows us to access state and make it useful.
 Here is the relevant syntax:
 
 <code>
